@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chroniconanglia03abbegoog_0287.png"; bbox 0 0 823 1300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 437 83 603 107">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 437 83 603 107">
+     <span class='ocr_line' id='line_1_1' title="bbox 437 83 603 107; baseline -0.006 -3"><span class='ocrx_word' id='word_1_1' title='bbox 437 83 462 107; x_wconf 66' lang='lat' dir='ltr'>Q</span> <span class='ocrx_word' id='word_1_2' title='bbox 473 85 505 107; x_wconf 49' lang='lat'>301</span> <span class='ocrx_word' id='word_1_3' title='bbox 516 85 603 104; x_wconf 68' lang='lat' dir='ltr'>cmcume</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 502 1151 665 1194">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 502 1151 665 1194">
+     <span class='ocr_line' id='line_1_2' title="bbox 502 1151 665 1194; baseline -0.018 -12"><span class='ocrx_word' id='word_1_4' title='bbox 502 1173 525 1194; x_wconf 58' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_5' title='bbox 535 1167 566 1188; x_wconf 62' lang='lat'>„01</span> <span class='ocrx_word' id='word_1_6' title='bbox 577 1151 665 1182; x_wconf 52' lang='lat' dir='ltr'>cmcufflss</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
